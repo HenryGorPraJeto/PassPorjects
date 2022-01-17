@@ -11,7 +11,7 @@ This file contains all the MATLAB scripts and ros package for the final RRT Path
 *The controller2.m File is the Controller of the robot what this script do is to subcribes to the Topic that publish by RRT or Bi-directional RRT program to obtains the planned path information then control the robot follow the planned path to reach the final goal pose
 
 instruction:
-1. open stage-ros simulartor (roslaunch a4_setup a4_setup.launch ) and move robot 0 around to construct OG-map
+1. open stage-ros simulartor (roslaunch a4_setup a4_setup.launch ) and move robot 0 around to construct OG-map(use rqt to check og-map)
 2. rosrun the obstacle-detector package (rosrun)
 3. run RRT or Bi-directional RRT script (run script in MATLAB)
 4. Once path planning done run the controller script to move robot.(Run script in MATLAB)
