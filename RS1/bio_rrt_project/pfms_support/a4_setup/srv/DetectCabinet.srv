@@ -1,0 +1,3 @@
+---
+std_msgs/Bool[] frontparallel
+geometry_msgs/PoseArray pose

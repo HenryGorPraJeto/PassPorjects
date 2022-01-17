@@ -1,0 +1,8 @@
+<!-- -*- mode: XML -*- -->
+
+<launch>
+
+    <node name="map_to_image_node_fake" pkg="a4_setup" type="map_to_image_node_fake" cwd="node" args="map:=/local_map/local_map /pose:=/odom" output="screen"/>
+
+</launch>
+
