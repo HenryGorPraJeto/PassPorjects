@@ -1,4 +1,4 @@
-This folder contain condes done by student for the Final Project.
+This folder contain codes done by student for the Final Project.
 
 
 The LAB_duckie_dash_detection.py file is the script that create the dash detection node and subcribering the /duckiebot/camera_node/image/compress image from duckiebotand use IPM technique to do dash line detection 
