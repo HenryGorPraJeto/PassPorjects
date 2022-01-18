@@ -1,0 +1,1 @@
+The jupyter notebook file contain pipe line codes of Studeent's Engineering Graduate Project. which is using CNN(from pytorch) to do wool contanmination classifacation (5 class). The code have compare 5 different CNN models. The Original DATA set is from project team and its not available in this repo. 
